@@ -5,7 +5,7 @@ public class Calculadora {
         Scanner scanner = new Scanner(System.in);
 
         // Mostrar el menú
-        System.out.println("Calculadora Sencilla");
+        System.out.println("Calculadora master");
         System.out.println("1. Suma");
         System.out.println("2. Resta");
         System.out.println("3. Multiplicación");
